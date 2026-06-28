@@ -4,7 +4,7 @@
 
 TryCopy generates authentic, conversion-focused ad copy in real Tunisian Darija — not the stiff, translated Arabic that generic AI tools produce. Built for COD (cash-on-delivery) sellers who need to write scroll-stopping ads fast.
 
-> 👉 **[Try it live](your-app-url-here)**
+> 👉 **[Try it live](trycopy.app)**
 
 *Source code is private — TryCopy is a commercial product. This repo is an overview of what it does and how it's built.*
 
