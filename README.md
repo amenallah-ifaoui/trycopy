@@ -52,4 +52,4 @@ The copy that actually sells in Tunisia sounds like a person talking — local, 
 
 Designed and built solo by **Amen Allah Ifaoui** — full-stack developer and founder, Tunis, Tunisia.
 
-🔗 [LinkedIn](your-linkedin-url) · 🐙 [GitHub](https://github.com/amenallah-ifaoui)
+🔗 [LinkedIn](https://www.linkedin.com/in/amen-allah-ifaoui-1293223bb/?skipRedirect=true) · 🐙 [GitHub](https://github.com/amenallah-ifaoui)
