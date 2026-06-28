@@ -29,8 +29,6 @@ The copy that actually sells in Tunisia sounds like a person talking — local, 
 
 ## Screenshots
 
-> _Add 2–4 screenshots or a short demo GIF here — the generation flow, a generated result, and the dashboard. Drop image files in the repo and reference them like below:_
-
 ![TryCopy — generation flow](screenshots/generate.png)
 ![TryCopy — generated ad copy](screenshots/result.png)
 ![TryCopy — dashboard](screenshots/dashboard.png)
